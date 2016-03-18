@@ -110,7 +110,7 @@ var games = {
     "wario_ware":"Wario Ware Inc",
     "zelda_past":"The Legend of Zelda: A Link to the Past",
     "zelda_minish":"The Legend of Zelda: The Minish Cap",
-    "knd":"Codename: Kids Next Door vol. 1"
+    "fatmon":"pokemon firered fat hack rom"
 };
 var Iodine = null;
 var Blitter = null;
