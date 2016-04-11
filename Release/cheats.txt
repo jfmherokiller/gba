@@ -1,0 +1,6 @@
+tlist creature
+tlist room
+tlist object
+springtime
+spawn [creaturename]
+givelevel
